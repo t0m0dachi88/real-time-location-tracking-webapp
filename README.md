@@ -224,7 +224,9 @@ Example:
 
 ---
 
+## Demo
 
+![App Screenshot](./public/Screenshot%202026-04-21%20151519.png)
 
 ## License
 
